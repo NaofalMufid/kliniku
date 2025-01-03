@@ -39,8 +39,8 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/kliniku-app.git
-cd kliniku-app
+git clone https://github.com/NaofalMufid/kliniku.git kliniku-app
+cd kliniku
 ```
 2. Create a `.env` file in the root directory with the following variables:
 3. Install dependencies for both backend and frontend
